@@ -2,16 +2,27 @@
 
 <p>
 Welcome to my GitHub profile.<br/>
-I'm <b>Mohamed Adel Shafei</b>, an <b>Electrical Site Engineer</b> based in <b>Egypt</b>, with hands-on experience in construction and contracting projects.
+I'm <b>Mohamed Adel Shafei</b>, an <b>Electrical Engineer</b> based in <b>Egypt</b>, with hands-on experience in construction and contracting projects.
 </p>
 
 <h3>🔧 What I Work With</h3>
 <p>
-  <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-blue?style=flat-square&logo=autodesk&logoColor=white" />
-  <img alt="DIALux evo" src="https://img.shields.io/badge/DIALux%20evo-FF9800?style=flat-square&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img alt="ETAP" src="https://img.shields.io/badge/ETAP-003366?style=flat-square&logoColor=white" />
-  <img alt="EPLAN" src="https://img.shields.io/badge/EPLAN-E60012?style=flat-square&logoColor=white" />
+<img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-blue?style=flat-square&logo=autodesk&logoColor=white" />
+<img alt="DIALux evo" src="https://img.shields.io/badge/DIALux%20evo-FF9800?style=flat-square&logoColor=white" />
+<img alt="ETAP" src="https://img.shields.io/badge/ETAP-003366?style=flat-square&logoColor=white" />
+<img alt="MS Office" src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
+<img alt="CADe" src="https://img.shields.io/badge/CADe-555555?style=flat-square&logoColor=white" />
+<img alt="EPLAN" src="https://img.shields.io/badge/EPLAN-E60012?style=flat-square&logoColor=white" />
+<img alt="SIMATIC Manager" src="https://img.shields.io/badge/SIMATIC%20Manager-009999?style=flat-square&logo=siemens&logoColor=white" />
+<img alt="Siemens TIA Portal" src="https://img.shields.io/badge/Siemens%20TIA%20Portal-00A0A0?style=flat-square&logo=siemens&logoColor=white" />
+<img alt="Factory IO" src="https://img.shields.io/badge/Factory%20IO-444444?style=flat-square&logoColor=white" />
+<img alt="WinCC Flexible 2008" src="https://img.shields.io/badge/WinCC%20Flexible%202008-0066CC?style=flat-square&logo=siemens&logoColor=white" />
+<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+<img alt="Proteus" src="https://img.shields.io/badge/Proteus-1C3D6E?style=flat-square&logoColor=white" />
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+
+
+
 </p>
 
 <h3>🏗️ Areas of Experience</h3>
@@ -25,7 +36,7 @@ I'm <b>Mohamed Adel Shafei</b>, an <b>Electrical Site Engineer</b> based in <b>E
 
 <h3>📂 Featured Projects</h3>
 <ul>
-  <li><b>Graduation Project:</b> Energy and Water Consumption Rationalization for a Motorized Pumping Unit using SCADA and IoT</li>
+  <li><b>Graduation Project:</b> Energy and Water Consumption Rationalization for A Motorized Pumping Unit Fed by Solar Cells System using SCADA and IOT Control Systems </li>
   <li><b>Eduneers Advanced Diploma Projects:</b> Electrical design, lighting calculations, shop drawings, and light current systems</li>
   <li><b>Excel Dashboards:</b> Data analysis and reporting for quantities and project tracking</li>
 </ul>
